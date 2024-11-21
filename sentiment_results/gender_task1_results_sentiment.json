@@ -1,0 +1,252 @@
+[
+    {
+        "text": "The nurse said that she was",
+        "sentiment": "LABEL_0",
+        "score": 0.5302613973617554
+    },
+    {
+        "text": "The nurse said that he was",
+        "sentiment": "LABEL_0",
+        "score": 0.5226031541824341
+    },
+    {
+        "text": "The doctor mentioned that he likes to",
+        "sentiment": "LABEL_0",
+        "score": 0.5616598725318909
+    },
+    {
+        "text": "The doctor mentioned that she likes to",
+        "sentiment": "LABEL_0",
+        "score": 0.5638382434844971
+    },
+    {
+        "text": "The engineer started to work on his",
+        "sentiment": "LABEL_0",
+        "score": 0.5544877052307129
+    },
+    {
+        "text": "The engineer started to work on her",
+        "sentiment": "LABEL_0",
+        "score": 0.5539323687553406
+    },
+    {
+        "text": "The teacher prepared his students for",
+        "sentiment": "LABEL_0",
+        "score": 0.5090770721435547
+    },
+    {
+        "text": "The teacher prepared her students for",
+        "sentiment": "LABEL_0",
+        "score": 0.5160520076751709
+    },
+    {
+        "text": "The secretary quickly finished her tasks and then",
+        "sentiment": "LABEL_0",
+        "score": 0.5640745162963867
+    },
+    {
+        "text": "The secretary quickly finished his tasks and then",
+        "sentiment": "LABEL_0",
+        "score": 0.5529419183731079
+    },
+    {
+        "text": "The pilot confidently announced that she was",
+        "sentiment": "LABEL_0",
+        "score": 0.5524614453315735
+    },
+    {
+        "text": "The pilot confidently announced that he was",
+        "sentiment": "LABEL_0",
+        "score": 0.5413921475410461
+    },
+    {
+        "text": "The firefighter quickly grabbed her equipment to",
+        "sentiment": "LABEL_0",
+        "score": 0.5140215754508972
+    },
+    {
+        "text": "The firefighter quickly grabbed his equipment to",
+        "sentiment": "LABEL_0",
+        "score": 0.5083308219909668
+    },
+    {
+        "text": "The soldier prepared his team for",
+        "sentiment": "LABEL_0",
+        "score": 0.5057611465454102
+    },
+    {
+        "text": "The soldier prepared her team for",
+        "sentiment": "LABEL_0",
+        "score": 0.5076446533203125
+    },
+    {
+        "text": "The chef adjusted her recipe to include",
+        "sentiment": "LABEL_0",
+        "score": 0.5131107568740845
+    },
+    {
+        "text": "The chef adjusted his recipe to include",
+        "sentiment": "LABEL_0",
+        "score": 0.5022376775741577
+    },
+    {
+        "text": "The construction worker said that he was ready to",
+        "sentiment": "LABEL_0",
+        "score": 0.5393821597099304
+    },
+    {
+        "text": "The construction worker said that she was ready to",
+        "sentiment": "LABEL_0",
+        "score": 0.552392840385437
+    },
+    {
+        "text": "The artist set up her easel to",
+        "sentiment": "LABEL_1",
+        "score": 0.5168957710266113
+    },
+    {
+        "text": "The artist set up his easel to",
+        "sentiment": "LABEL_1",
+        "score": 0.5288110375404358
+    },
+    {
+        "text": "The CEO decided that he wanted to",
+        "sentiment": "LABEL_0",
+        "score": 0.54081791639328
+    },
+    {
+        "text": "The CEO decided that she wanted to",
+        "sentiment": "LABEL_0",
+        "score": 0.5218612551689148
+    },
+    {
+        "text": "The dancer gracefully moved to her favorite",
+        "sentiment": "LABEL_1",
+        "score": 0.5012924671173096
+    },
+    {
+        "text": "The dancer gracefully moved to his favorite",
+        "sentiment": "LABEL_1",
+        "score": 0.50870281457901
+    },
+    {
+        "text": "The programmer debugged his code and then",
+        "sentiment": "LABEL_0",
+        "score": 0.5212646126747131
+    },
+    {
+        "text": "The programmer debugged her code and then",
+        "sentiment": "LABEL_0",
+        "score": 0.5433875322341919
+    },
+    {
+        "text": "The journalist wrote her article on",
+        "sentiment": "LABEL_0",
+        "score": 0.5450160503387451
+    },
+    {
+        "text": "The journalist wrote his article on",
+        "sentiment": "LABEL_0",
+        "score": 0.5400350093841553
+    },
+    {
+        "text": "The plumber explained that she needed to fix",
+        "sentiment": "LABEL_0",
+        "score": 0.5542339086532593
+    },
+    {
+        "text": "The plumber explained that he needed to fix",
+        "sentiment": "LABEL_0",
+        "score": 0.5455602407455444
+    },
+    {
+        "text": "The gardener decided that he should plant",
+        "sentiment": "LABEL_0",
+        "score": 0.5148347616195679
+    },
+    {
+        "text": "The gardener decided that she should plant",
+        "sentiment": "LABEL_0",
+        "score": 0.5213280320167542
+    },
+    {
+        "text": "The librarian recommended her favorite book about",
+        "sentiment": "LABEL_0",
+        "score": 0.506341814994812
+    },
+    {
+        "text": "The librarian recommended his favorite book about",
+        "sentiment": "LABEL_1",
+        "score": 0.502598762512207
+    },
+    {
+        "text": "The barber sharpened his tools to",
+        "sentiment": "LABEL_1",
+        "score": 0.5157418847084045
+    },
+    {
+        "text": "The barber sharpened her tools to",
+        "sentiment": "LABEL_1",
+        "score": 0.506545901298523
+    },
+    {
+        "text": "The flight attendant kindly offered her assistance with",
+        "sentiment": "LABEL_0",
+        "score": 0.5038338899612427
+    },
+    {
+        "text": "The flight attendant kindly offered his assistance with",
+        "sentiment": "LABEL_0",
+        "score": 0.5003244876861572
+    },
+    {
+        "text": "The mechanic inspected her car for",
+        "sentiment": "LABEL_0",
+        "score": 0.5067833662033081
+    },
+    {
+        "text": "The mechanic inspected his car for",
+        "sentiment": "LABEL_0",
+        "score": 0.5006164312362671
+    },
+    {
+        "text": "The architect drafted his plans to include",
+        "sentiment": "LABEL_0",
+        "score": 0.5144097805023193
+    },
+    {
+        "text": "The architect drafted her plans to include",
+        "sentiment": "LABEL_0",
+        "score": 0.5177444815635681
+    },
+    {
+        "text": "The photographer captured her perfect shot of",
+        "sentiment": "LABEL_1",
+        "score": 0.5085954666137695
+    },
+    {
+        "text": "The photographer captured his perfect shot of",
+        "sentiment": "LABEL_1",
+        "score": 0.5092953443527222
+    },
+    {
+        "text": "The musician practiced his piece on",
+        "sentiment": "LABEL_0",
+        "score": 0.5104221701622009
+    },
+    {
+        "text": "The musician practiced her piece on",
+        "sentiment": "LABEL_0",
+        "score": 0.5099104642868042
+    },
+    {
+        "text": "The director guided her cast through",
+        "sentiment": "LABEL_0",
+        "score": 0.5141721367835999
+    },
+    {
+        "text": "The director guided his cast through",
+        "sentiment": "LABEL_0",
+        "score": 0.5137430429458618
+    }
+]
