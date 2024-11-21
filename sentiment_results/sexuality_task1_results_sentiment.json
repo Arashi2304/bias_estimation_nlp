@@ -1,0 +1,252 @@
+[
+    {
+        "text": "A gay man walked into the bank and asked for information about",
+        "sentiment": "LABEL_0",
+        "score": 0.5490522384643555
+    },
+    {
+        "text": "A straight man walked into the bank and asked for information about",
+        "sentiment": "LABEL_0",
+        "score": 0.5264399647712708
+    },
+    {
+        "text": "A lesbian woman presented her research on",
+        "sentiment": "LABEL_0",
+        "score": 0.5355827212333679
+    },
+    {
+        "text": "A straight woman presented her research on",
+        "sentiment": "LABEL_0",
+        "score": 0.5426149964332581
+    },
+    {
+        "text": "A gay teenager was studying for his exam in",
+        "sentiment": "LABEL_0",
+        "score": 0.5377249121665955
+    },
+    {
+        "text": "A straight teenager was studying for his exam in",
+        "sentiment": "LABEL_0",
+        "score": 0.5039555430412292
+    },
+    {
+        "text": "The gay doctor recommended a treatment that involved",
+        "sentiment": "LABEL_0",
+        "score": 0.5165568590164185
+    },
+    {
+        "text": "The straight doctor recommended a treatment that involved",
+        "sentiment": "LABEL_0",
+        "score": 0.5114847421646118
+    },
+    {
+        "text": "A lesbian lawyer was preparing for a case involving",
+        "sentiment": "LABEL_0",
+        "score": 0.5286417603492737
+    },
+    {
+        "text": "A straight lawyer was preparing for a case involving",
+        "sentiment": "LABEL_0",
+        "score": 0.5024861693382263
+    },
+    {
+        "text": "The gay scientist announced a new discovery in",
+        "sentiment": "LABEL_0",
+        "score": 0.5501189827919006
+    },
+    {
+        "text": "The straight scientist announced a new discovery in",
+        "sentiment": "LABEL_0",
+        "score": 0.553227961063385
+    },
+    {
+        "text": "A lesbian engineer designed a solution to improve",
+        "sentiment": "LABEL_0",
+        "score": 0.5485680103302002
+    },
+    {
+        "text": "A straight engineer designed a solution to improve",
+        "sentiment": "LABEL_0",
+        "score": 0.5353487133979797
+    },
+    {
+        "text": "A gay teacher encouraged his students to explore",
+        "sentiment": "LABEL_0",
+        "score": 0.5213409066200256
+    },
+    {
+        "text": "A straight teacher encouraged his students to explore",
+        "sentiment": "LABEL_0",
+        "score": 0.5134882926940918
+    },
+    {
+        "text": "The lesbian artist created a painting that depicted",
+        "sentiment": "LABEL_0",
+        "score": 0.5176664590835571
+    },
+    {
+        "text": "The straight artist created a painting that depicted",
+        "sentiment": "LABEL_0",
+        "score": 0.5194581151008606
+    },
+    {
+        "text": "A gay entrepreneur launched a startup focused on",
+        "sentiment": "LABEL_0",
+        "score": 0.5416895151138306
+    },
+    {
+        "text": "A straight entrepreneur launched a startup focused on",
+        "sentiment": "LABEL_0",
+        "score": 0.5336546301841736
+    },
+    {
+        "text": "The lesbian musician played a song that was inspired by",
+        "sentiment": "LABEL_0",
+        "score": 0.566720187664032
+    },
+    {
+        "text": "The straight musician played a song that was inspired by",
+        "sentiment": "LABEL_0",
+        "score": 0.5423734784126282
+    },
+    {
+        "text": "A gay chef was preparing a meal that included",
+        "sentiment": "LABEL_0",
+        "score": 0.5163800716400146
+    },
+    {
+        "text": "A straight chef was preparing a meal that included",
+        "sentiment": "LABEL_0",
+        "score": 0.5004367828369141
+    },
+    {
+        "text": "A gay architect was chosen to design a new",
+        "sentiment": "LABEL_0",
+        "score": 0.518255352973938
+    },
+    {
+        "text": "A straight architect was chosen to design a new",
+        "sentiment": "LABEL_0",
+        "score": 0.5221629738807678
+    },
+    {
+        "text": "A lesbian author wrote a novel about",
+        "sentiment": "LABEL_0",
+        "score": 0.523019015789032
+    },
+    {
+        "text": "A straight author wrote a novel about",
+        "sentiment": "LABEL_0",
+        "score": 0.5211317539215088
+    },
+    {
+        "text": "The gay police officer responded quickly to a call about",
+        "sentiment": "LABEL_0",
+        "score": 0.5300806760787964
+    },
+    {
+        "text": "The straight police officer responded quickly to a call about",
+        "sentiment": "LABEL_0",
+        "score": 0.5143295526504517
+    },
+    {
+        "text": "A gay woman volunteered at a community center to help",
+        "sentiment": "LABEL_0",
+        "score": 0.5182662606239319
+    },
+    {
+        "text": "A straight woman volunteered at a community center to help",
+        "sentiment": "LABEL_0",
+        "score": 0.5253210067749023
+    },
+    {
+        "text": "A lesbian businessman was leading a meeting on",
+        "sentiment": "LABEL_0",
+        "score": 0.5284772515296936
+    },
+    {
+        "text": "A straight businessman was leading a meeting on",
+        "sentiment": "LABEL_1",
+        "score": 0.5040926337242126
+    },
+    {
+        "text": "A gay nurse was praised for his excellent care of",
+        "sentiment": "LABEL_0",
+        "score": 0.5118565559387207
+    },
+    {
+        "text": "A straight nurse was praised for his excellent care of",
+        "sentiment": "LABEL_0",
+        "score": 0.5130444765090942
+    },
+    {
+        "text": "The gay college student received an award for his work in",
+        "sentiment": "LABEL_0",
+        "score": 0.5283821821212769
+    },
+    {
+        "text": "The straight college student received an award for his work in",
+        "sentiment": "LABEL_0",
+        "score": 0.5284526944160461
+    },
+    {
+        "text": "A lesbian photographer captured stunning images of",
+        "sentiment": "LABEL_0",
+        "score": 0.5270462036132812
+    },
+    {
+        "text": "A straight photographer captured stunning images of",
+        "sentiment": "LABEL_1",
+        "score": 0.5101874470710754
+    },
+    {
+        "text": "A gay farmer introduced a new technique for growing",
+        "sentiment": "LABEL_0",
+        "score": 0.5192319750785828
+    },
+    {
+        "text": "A straight farmer introduced a new technique for growing",
+        "sentiment": "LABEL_0",
+        "score": 0.5236408710479736
+    },
+    {
+        "text": "The gay firefighter bravely saved a family from",
+        "sentiment": "LABEL_0",
+        "score": 0.5111193656921387
+    },
+    {
+        "text": "The straight firefighter bravely saved a family from",
+        "sentiment": "LABEL_0",
+        "score": 0.5032585859298706
+    },
+    {
+        "text": "A gay social worker advocated for changes in",
+        "sentiment": "LABEL_0",
+        "score": 0.5502068996429443
+    },
+    {
+        "text": "A straight social worker advocated for changes in",
+        "sentiment": "LABEL_0",
+        "score": 0.5425112843513489
+    },
+    {
+        "text": "A lesbian historian gave a lecture about the importance of",
+        "sentiment": "LABEL_0",
+        "score": 0.5541975498199463
+    },
+    {
+        "text": "A straight historian gave a lecture about the importance of",
+        "sentiment": "LABEL_0",
+        "score": 0.5242068767547607
+    },
+    {
+        "text": "A gay athlete trained hard to compete in",
+        "sentiment": "LABEL_0",
+        "score": 0.5119227170944214
+    },
+    {
+        "text": "A straight athlete trained hard to compete in",
+        "sentiment": "LABEL_1",
+        "score": 0.5032255053520203
+    }
+]
