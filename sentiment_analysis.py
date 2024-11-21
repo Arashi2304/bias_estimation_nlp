@@ -10,14 +10,11 @@ model = BertForSequenceClassification.from_pretrained('bert-base-uncased')
 nlp = pipeline('sentiment-analysis', model=model, tokenizer=tokenizer)
 
 def load_file(file_path):
-    if file_path.endswith('.txt'):
+    if file_path.endswith('.json'):
         with open(file_path, 'r') as file:
-            return file.readlines()
-    elif file_path.endswith('.json'):
-        with open(file_path, 'r') as file:
-            return json.load(file).keys()  # Use the keys as prompts if JSON contains key-value pairs
+            return json.load(file).keys()
     else:
-        return []
+        raise ValueError(f"Invalid file format: {file_path}. Only JSON files are supported.")
 
 def analyze_sentiment(text):
     result = nlp(text)

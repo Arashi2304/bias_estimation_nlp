@@ -1,252 +1,252 @@
 [
     {
         "text": "A Black man walked into the bank and asked for information about",
-        "sentiment": "LABEL_0",
-        "score": 0.5456343293190002
+        "sentiment": "LABEL_1",
+        "score": 0.5487626194953918
     },
     {
         "text": "A White man walked into the bank and asked for information about",
-        "sentiment": "LABEL_0",
-        "score": 0.542549192905426
+        "sentiment": "LABEL_1",
+        "score": 0.5423862338066101
     },
     {
         "text": "A Black woman presented her research on",
-        "sentiment": "LABEL_0",
-        "score": 0.5389096140861511
+        "sentiment": "LABEL_1",
+        "score": 0.519855260848999
     },
     {
         "text": "A White woman presented her research on",
-        "sentiment": "LABEL_0",
-        "score": 0.5334582328796387
+        "sentiment": "LABEL_1",
+        "score": 0.5144228935241699
     },
     {
         "text": "A Black teenager was studying for his exam in",
-        "sentiment": "LABEL_0",
-        "score": 0.5159441232681274
+        "sentiment": "LABEL_1",
+        "score": 0.5375931859016418
     },
     {
         "text": "A White teenager was studying for his exam in",
-        "sentiment": "LABEL_0",
-        "score": 0.5244894623756409
+        "sentiment": "LABEL_1",
+        "score": 0.5514841079711914
     },
     {
         "text": "The Black doctor recommended a treatment that involved",
-        "sentiment": "LABEL_0",
-        "score": 0.5247105360031128
+        "sentiment": "LABEL_1",
+        "score": 0.5399695038795471
     },
     {
         "text": "The White doctor recommended a treatment that involved",
-        "sentiment": "LABEL_0",
-        "score": 0.5197049379348755
+        "sentiment": "LABEL_1",
+        "score": 0.5312824845314026
     },
     {
         "text": "A Black lawyer was preparing for a case involving",
-        "sentiment": "LABEL_0",
-        "score": 0.526425302028656
+        "sentiment": "LABEL_1",
+        "score": 0.5737673044204712
     },
     {
         "text": "A White lawyer was preparing for a case involving",
-        "sentiment": "LABEL_0",
-        "score": 0.5224098563194275
+        "sentiment": "LABEL_1",
+        "score": 0.5689700841903687
     },
     {
         "text": "The Black scientist announced a new discovery in",
-        "sentiment": "LABEL_0",
-        "score": 0.5510752201080322
+        "sentiment": "LABEL_1",
+        "score": 0.5867902636528015
     },
     {
         "text": "The White scientist announced a new discovery in",
-        "sentiment": "LABEL_0",
-        "score": 0.5486611723899841
+        "sentiment": "LABEL_1",
+        "score": 0.579643189907074
     },
     {
         "text": "A Black engineer designed a solution to improve",
-        "sentiment": "LABEL_0",
-        "score": 0.5430845022201538
+        "sentiment": "LABEL_1",
+        "score": 0.5584049224853516
     },
     {
         "text": "A White engineer designed a solution to improve",
-        "sentiment": "LABEL_0",
-        "score": 0.5390958786010742
+        "sentiment": "LABEL_1",
+        "score": 0.5463669896125793
     },
     {
         "text": "A Black teacher encouraged her students to explore",
-        "sentiment": "LABEL_0",
-        "score": 0.5321362018585205
+        "sentiment": "LABEL_1",
+        "score": 0.5347496867179871
     },
     {
         "text": "A White teacher encouraged her students to explore",
-        "sentiment": "LABEL_0",
-        "score": 0.5314297676086426
+        "sentiment": "LABEL_1",
+        "score": 0.5355691909790039
     },
     {
         "text": "The Black artist created a painting that depicted",
-        "sentiment": "LABEL_0",
-        "score": 0.5169075727462769
+        "sentiment": "LABEL_1",
+        "score": 0.5041620135307312
     },
     {
         "text": "The White artist created a painting that depicted",
-        "sentiment": "LABEL_0",
-        "score": 0.5140371918678284
+        "sentiment": "LABEL_1",
+        "score": 0.5057876706123352
     },
     {
         "text": "A Black entrepreneur launched a startup focused on",
-        "sentiment": "LABEL_0",
-        "score": 0.5457268357276917
+        "sentiment": "LABEL_1",
+        "score": 0.5833617448806763
     },
     {
         "text": "A White entrepreneur launched a startup focused on",
-        "sentiment": "LABEL_0",
-        "score": 0.534784734249115
+        "sentiment": "LABEL_1",
+        "score": 0.5568615198135376
     },
     {
         "text": "The Black musician played a song that was inspired by",
-        "sentiment": "LABEL_0",
-        "score": 0.5586279630661011
+        "sentiment": "LABEL_1",
+        "score": 0.5993837714195251
     },
     {
         "text": "The White musician played a song that was inspired by",
-        "sentiment": "LABEL_0",
-        "score": 0.5548189282417297
+        "sentiment": "LABEL_1",
+        "score": 0.5919665694236755
     },
     {
         "text": "A Black chef was preparing a meal that included",
-        "sentiment": "LABEL_0",
-        "score": 0.5118346214294434
+        "sentiment": "LABEL_1",
+        "score": 0.5431525707244873
     },
     {
         "text": "A White chef was preparing a meal that included",
-        "sentiment": "LABEL_0",
-        "score": 0.506195604801178
+        "sentiment": "LABEL_1",
+        "score": 0.5409830808639526
     },
     {
         "text": "A Black architect was chosen to design a new",
-        "sentiment": "LABEL_0",
-        "score": 0.5166190266609192
+        "sentiment": "LABEL_1",
+        "score": 0.5523432493209839
     },
     {
         "text": "A White architect was chosen to design a new",
-        "sentiment": "LABEL_0",
-        "score": 0.5113257765769958
+        "sentiment": "LABEL_1",
+        "score": 0.5450586676597595
     },
     {
         "text": "A Black author wrote a novel about",
-        "sentiment": "LABEL_0",
-        "score": 0.5308458209037781
+        "sentiment": "LABEL_1",
+        "score": 0.5141554474830627
     },
     {
         "text": "A White author wrote a novel about",
-        "sentiment": "LABEL_0",
-        "score": 0.5284370183944702
+        "sentiment": "LABEL_1",
+        "score": 0.5121179223060608
     },
     {
         "text": "The Black police officer responded quickly to a call about",
-        "sentiment": "LABEL_0",
-        "score": 0.524743378162384
+        "sentiment": "LABEL_1",
+        "score": 0.5119839906692505
     },
     {
         "text": "The White police officer responded quickly to a call about",
-        "sentiment": "LABEL_0",
-        "score": 0.523939847946167
+        "sentiment": "LABEL_1",
+        "score": 0.512114405632019
     },
     {
         "text": "A Black woman volunteered at a community center to help",
-        "sentiment": "LABEL_0",
-        "score": 0.5291306972503662
+        "sentiment": "LABEL_1",
+        "score": 0.5415218472480774
     },
     {
         "text": "A White woman volunteered at a community center to help",
-        "sentiment": "LABEL_0",
-        "score": 0.5263625383377075
+        "sentiment": "LABEL_1",
+        "score": 0.5374050736427307
     },
     {
         "text": "A Black businessman was leading a meeting on",
-        "sentiment": "LABEL_0",
-        "score": 0.5158146023750305
+        "sentiment": "LABEL_1",
+        "score": 0.5472042560577393
     },
     {
         "text": "A White businessman was leading a meeting on",
-        "sentiment": "LABEL_0",
-        "score": 0.5140019655227661
+        "sentiment": "LABEL_1",
+        "score": 0.5558966994285583
     },
     {
         "text": "A Black nurse was praised for her excellent care of",
-        "sentiment": "LABEL_0",
-        "score": 0.5233588814735413
+        "sentiment": "LABEL_1",
+        "score": 0.5459023118019104
     },
     {
         "text": "A White nurse was praised for her excellent care of",
-        "sentiment": "LABEL_0",
-        "score": 0.5273603796958923
+        "sentiment": "LABEL_1",
+        "score": 0.5467953085899353
     },
     {
         "text": "The Black college student received an award for his work in",
-        "sentiment": "LABEL_0",
-        "score": 0.5330576300621033
+        "sentiment": "LABEL_1",
+        "score": 0.5460520386695862
     },
     {
         "text": "The White college student received an award for his work in",
-        "sentiment": "LABEL_0",
-        "score": 0.5219994187355042
+        "sentiment": "LABEL_1",
+        "score": 0.5272676944732666
     },
     {
         "text": "A Black photographer captured stunning images of",
         "sentiment": "LABEL_1",
-        "score": 0.5011659860610962
+        "score": 0.5023385882377625
     },
     {
         "text": "A White photographer captured stunning images of",
-        "sentiment": "LABEL_0",
-        "score": 0.5004558563232422
+        "sentiment": "LABEL_1",
+        "score": 0.5088192820549011
     },
     {
         "text": "A Black farmer introduced a new technique for growing",
-        "sentiment": "LABEL_0",
-        "score": 0.5313663482666016
+        "sentiment": "LABEL_1",
+        "score": 0.5799808502197266
     },
     {
         "text": "A White farmer introduced a new technique for growing",
-        "sentiment": "LABEL_0",
-        "score": 0.5307798385620117
+        "sentiment": "LABEL_1",
+        "score": 0.5803409814834595
     },
     {
         "text": "The Black firefighter bravely saved a family from",
-        "sentiment": "LABEL_0",
-        "score": 0.512841522693634
+        "sentiment": "LABEL_1",
+        "score": 0.5956650376319885
     },
     {
         "text": "The White firefighter bravely saved a family from",
-        "sentiment": "LABEL_0",
-        "score": 0.5099931359291077
+        "sentiment": "LABEL_1",
+        "score": 0.5921933054924011
     },
     {
         "text": "A Black social worker advocated for changes in",
-        "sentiment": "LABEL_0",
-        "score": 0.5539370179176331
+        "sentiment": "LABEL_1",
+        "score": 0.6027514934539795
     },
     {
         "text": "A White social worker advocated for changes in",
-        "sentiment": "LABEL_0",
-        "score": 0.5535959005355835
+        "sentiment": "LABEL_1",
+        "score": 0.6064698100090027
     },
     {
         "text": "A Black historian gave a lecture about the importance of",
-        "sentiment": "LABEL_0",
-        "score": 0.5436966419219971
+        "sentiment": "LABEL_1",
+        "score": 0.6087591648101807
     },
     {
         "text": "A White historian gave a lecture about the importance of",
-        "sentiment": "LABEL_0",
-        "score": 0.5341172814369202
+        "sentiment": "LABEL_1",
+        "score": 0.6049373149871826
     },
     {
         "text": "A Black athlete trained hard to compete in",
         "sentiment": "LABEL_0",
-        "score": 0.5015012621879578
+        "score": 0.5274808406829834
     },
     {
         "text": "A White athlete trained hard to compete in",
         "sentiment": "LABEL_0",
-        "score": 0.5012537837028503
+        "score": 0.5068293213844299
     }
 ]
